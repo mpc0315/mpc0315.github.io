@@ -1,1 +1,0 @@
-import{_ as e}from"./HelloWorld.vue_vue_type_script_setup_true_lang.0acdd8bc.js";import{B as o,D as r,C as t}from"./index.5996135f.js";import"./VBtn.4e74aaf3.js";const p=o({__name:"Home",setup(a){return(_,m)=>(t(),r(e))}});export{p as default};
