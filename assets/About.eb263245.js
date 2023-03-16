@@ -1,0 +1,1 @@
+import{_ as o}from"./HelloWorld.vue_vue_type_script_setup_true_lang.0acdd8bc.js";import{B as e,D as t,C as r}from"./index.5996135f.js";import"./VBtn.4e74aaf3.js";const p=e({__name:"About",setup(a){return(_,n)=>(r(),t(o))}});export{p as default};
